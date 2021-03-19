@@ -24,7 +24,7 @@
 
 ## Images
 
-![This is a alt text.](Stagiaire/Github/Graphikfm/capture.png "This is a sample image.")
+![This is a alt text.](C:\Users\Stagiaire\Github\Graphikfm\capture.png "This is a sample image.")
 
 ## Qui suis-je
 
