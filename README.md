@@ -4,6 +4,7 @@
 
 **- BTS Designer produit**  
 **- Bachelor Chef de projet digital**
+**- Diplome Developpeur web et web mobile**
 
 ## Description
 
