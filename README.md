@@ -1,32 +1,85 @@
-## Hello moi c'est Fabien !
+# 👋 Hello, moi c'est Fabien !
 
-## Mes diplomes
+Développeur WordPress & Web  
+Passionné par le design, le développement web et les projets créatifs  
+J’aime créer des expériences web modernes, responsive et dynamiques
 
-**- BTS Designer produit**  
-**- Bachelor Chef de projet digital**
-**- Diplome Developpeur web et web mobile**
+---
 
-## Description
+# Mes diplômes
 
-> 
->
->>
+- BTS Designer Produit
+- Bachelor Chef de Projet Digital
+- Diplôme Développeur Web et Web Mobile
+- Diplôme Développeur WordPress
 
+---
 
+# À propos de moi
 
-### Mes passions
+Après un parcours dans le design et le digital, je me suis spécialisé dans le développement web avec une forte orientation WordPress.
 
-* Tennis/Tennis de table
-* Foot
-* Les jeux FPS
-* Internet
-* Netflix
+J’aime concevoir des projets complets mêlant :
+- développement front-end
+- intégration WordPress
+- UI/UX
+- responsive design
+- personnalisation de thèmes
+- optimisation de l’expérience utilisateur
 
+Je travaille régulièrement avec :
+- WordPress
+- PHP
+- JavaScript
+- CSS
+- Git & GitHub
+- Local WP
 
-## Images
+---
 
-![This is a alt text.](C:\Users\Stagiaire\Github\Graphikfm\capture.png "This is a sample image.")
+# Projets
 
-## Qui suis-je
+## Ma Photo
 
-[Linkedin](https://markdownlivepreview.com/).
+Thème WordPress personnalisé développé pour une plateforme de photographie fictive.
+
+### Fonctionnalités :
+- Galerie photo dynamique
+- Navigation responsive
+- Hero personnalisé
+- Templates WordPress custom
+- Menu mobile dynamique
+
+👉 Voir le projet :
+https://github.com/Graphikfm/Ma-photo
+
+---
+
+# Mes passions
+
+- Tennis / Tennis de table
+- Football
+- Jeux FPS
+- Internet & nouvelles technologies
+- Netflix & séries
+
+---
+
+# Aperçu
+
+![Aperçu](images/apercu.png)
+
+---
+
+# Me contacter
+
+### LinkedIn
+
+https://www.linkedin.com/in/fabien-mari-229381b5
+
+---
+
+# GitHub Stats
+
+![Fabien GitHub stats](https://github-readme-stats.vercel.app/api?username=Graphikfm&show_icons=true)
+
