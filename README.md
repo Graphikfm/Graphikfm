@@ -1,4 +1,4 @@
-# 👋 Hello, moi c'est Fabien !
+# Hello, moi c'est Fabien !
 
 Développeur WordPress & Web  
 Passionné par le design, le développement web et les projets créatifs  
@@ -50,7 +50,7 @@ Thème WordPress personnalisé développé pour une plateforme de photographie f
 - Templates WordPress custom
 - Menu mobile dynamique
 
-👉 Voir le projet :
+Voir le projet :
 https://github.com/Graphikfm/Ma-photo
 
 ---
