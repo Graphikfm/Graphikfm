@@ -62,6 +62,9 @@ https://github.com/Graphikfm/Ma-photo
 - Jeux FPS
 - Internet & nouvelles technologies
 - Netflix & séries
+- Bricolage
+- Fitness
+- Voyages
 
 ---
 
