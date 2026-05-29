@@ -80,6 +80,8 @@ https://github.com/Graphikfm/Ma-photo
 
 https://www.linkedin.com/in/fabien-mari-229381b5
 
+### Mon site CV
+https://www.fabien-dev.fr
 ---
 
 # GitHub Stats
